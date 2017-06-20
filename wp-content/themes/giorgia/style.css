@@ -11,7 +11,7 @@ body {
     margin bottom: 15px;
     padding: 15px 15px 5px 15px;
 }
-.col-md-9 {
+.col-md-6 {
     background: rgba(0, 0, 0, 0.2);
     color: rgba(256, 256, 256, 0.85);
     max-width: 100%;
@@ -45,7 +45,7 @@ h4 {
     background: url(./screenshot.png);
     background-size: cover;
     margin-bottom: 80px;
-    min-height: 700px;
+    min-height: 650px;
     padding-top: 0px;
 }
 .navbar-default {

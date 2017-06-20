@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 	<div class="row-text">
-				<div class="col-md-9 giorgia-printing">
+				<div class="col-md-6 giorgia-style">
 					<h1><?php bloginfo (name) ?></h1>
 					<h4><?php bloginfo (description) ?></h4>
 				</div>
@@ -11,7 +11,7 @@
 	<div class="container-fluid">
 		<div class="row text-center">
 			<h2>Contact us or Find Us.</h2>
-			<h3>Your style is our style.</h3>
+			<h3>Your travel is our travel.</h3>
 		</div>
 		<div class="row">
 			<form class="giorgia-form" id="contacts" data-toggle="validator" role="form">

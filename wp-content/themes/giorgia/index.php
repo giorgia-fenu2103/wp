@@ -1,6 +1,6 @@
 <?php get_header(); ?>
 	<div class="row-text">
-				<div class="col-md-6 giorgia-style">
+				<div class="col-md-12 giorgia-style">
 					<h1><?php bloginfo (name) ?></h1>
 					<h4><?php bloginfo (description) ?></h4>
 				</div>

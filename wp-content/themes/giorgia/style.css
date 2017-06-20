@@ -58,7 +58,7 @@ h4 {
     color: #fff;
     font-size: 24px;
     font-weight: 600;
-    margin-left: 10px;
+    margin-left: 0px;
 }
 .navbar-default .navbar-nav>li>a:hover,
 .navbar-default .navbar-nav>li>a:focus {
@@ -80,7 +80,7 @@ h4 {
     float: ;     
     margin top: 80px;
     margin bottom: 60px;
-    max-width: 90%;
+    max-width: 80%;
     padding: 0px 0px 0px 10px;
     position: relative;
 }
@@ -100,7 +100,7 @@ h4 {
         font-size: 20px;
         color: #fff;
         font-weight: 400;
-        text-align: center;
+        text-align: relative;
 
     }
 }

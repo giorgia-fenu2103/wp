@@ -1,5 +1,5 @@
 body {
-    font-family: sans-serif;
+    font-family: century;
 }
 }
 .col-md-5 {
@@ -23,7 +23,7 @@ body {
 }
 .giorgia-form {
     margin: 50px 50px 50px 50px;
-    padding: 0px 50px 50px 100px;
+    padding: 10px 200px 10px 200px;
 }
 h1 {
     font-size: 20px;
@@ -43,8 +43,8 @@ h4 {
 .jumbotron {
     background: url(./screenshot.png);
     background-size: cover;
-    min-height: 650px;
-    padding-top: 0px;
+    min-height: 850px;
+    padding-top: 10px;
 }
 .navbar-default {
     background-color: transparent;
@@ -55,7 +55,6 @@ h4 {
     color: #fff;
     font-size: 24px;
     font-weight: 700;
-    margin-left: 0px;
 }
 .navbar-default .navbar-nav>li>a:hover,
 .navbar-default .navbar-nav>li>a:focus {
@@ -75,20 +74,18 @@ h4 {
 }
 .row { 
     float: center;
-    margin top: 80px;
-    margin bottom: 60px;
+    margin top: 80px -15px 60px -15px;
     max-width: 100%;
-    padding: 0px 0px 0px 10px;
+    padding: 10px 0px 0px 10px;
     position: center;
 }
 .row-text {
     text-align: center;    
-    max-width: 50%;
-    margin-top: 0px;
+    max-width: 100%;
     padding top: 50px 0px 20px 0px;
     position: center;
 }
-@media (max-width: 650px) {
+@media (max-width: 750px) {
     .navbar-default .navbar-collapse {
         background-color: rgba(0, 0, 0, 0.2);
         border-color: transparent;
@@ -96,7 +93,7 @@ h4 {
     .navbar-default .navbar-nav>li>a {
         color: #fff;
         font-size: 20px;
-        font-weight: 600;
+        font-weight: 700;
         text-align: center;
 
     }

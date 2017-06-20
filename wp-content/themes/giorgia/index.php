@@ -8,13 +8,13 @@
 		</div>
 	</div>
 	<!-- form -->
-	<div class="container-fluid">
+	<div class="container-fluid" id="contacts">
 		<div class="row text-center">
 			<h2>Contact us or Find Us.</h2>
 			<h3>Your travel is our travel.</h3>
 		</div>
 		<div class="row">
-			<form class="giorgia-form" id="contacts" data-toggle="validator" role="form">
+			<form class="giorgia-form" data-toggle="validator" role="form">
 				<div class="col-md-7">
 					<div class="form-group has-feedback">
 						<label for="exampleInputName1">First Name</label>
